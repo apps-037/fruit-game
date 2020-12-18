@@ -2,7 +2,7 @@
 
 A simple fruit cutting game in which you cut fruits by hovering mouse pointer over it. If you miss three fruits then you lose the game.
 
-##SCREENSHOTS
+# SCREENSHOTS
 
 <img width="946" alt="SC1" src="https://user-images.githubusercontent.com/60502274/102522416-36a8e600-40bc-11eb-9d45-881c3d774ecb.PNG">
 
