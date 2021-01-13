@@ -9,6 +9,7 @@ $(function(){
     
 //click on start reset button
     
+   
 $("#startreset").click(function(){
 
     //we are playing
